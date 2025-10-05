@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://username.github.io/your-repo/</loc>
+    <loc>https://lou-ark.github.io/PEOPEL-OPT-Website/</loc>
     <lastmod>2025-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://username.github.io/your-repo/#vision-summary</loc>
+    <loc>https://lou-ark.github.io/PEOPEL-OPT-Website/#vision-summary</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://username.github.io/your-repo/#pdca-method</loc>
+    <loc>https://lou-ark.github.io/PEOPEL-OPT-Website/#pdca-method</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://username.github.io/your-repo/#insights</loc>
+    <loc>https://lou-ark.github.io/PEOPEL-OPT-Website/#insights</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://username.github.io/your-repo/#collaboration</loc>
+    <loc>https://lou-ark.github.io/PEOPEL-OPT-Website/#collaboration</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://username.github.io/your-repo/#contact-section</loc>
+    <loc>https://lou-ark.github.io/PEOPEL-OPT-Website/#contact-section</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
