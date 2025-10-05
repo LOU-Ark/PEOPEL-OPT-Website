@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://username.github.io/your-repo/sitemap.xml
+Sitemap: https://lou-ark.github.io/PEOPEL-OPT-Website/sitemap.xml
